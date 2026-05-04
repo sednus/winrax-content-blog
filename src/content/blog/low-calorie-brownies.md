@@ -2,7 +2,7 @@
 title: 'Brownies Bajos en Calorías: Fáciles y Saludables'
 description: 'Descubre cómo preparar los mejores brownies bajos en calorías. Una receta saludable y perfecta para el antojo.'
 pubDate: 'May 04 2026'
-heroImage: '/hero_header.jpg'
+heroImage: '../../assets/hero_header.jpg'
 ---
 
 ¿Tienes un antojo terrible de chocolate pero no quieres arruinar tu progreso de la semana? Te entiendo. La mayoría de las recetas de brownies están cargadas de mantequilla y azúcar refinada. Pero, ¿y si te dijera que puedes lograr esa textura "fudgy" (melcochuda) con una fracción de las calorías?
